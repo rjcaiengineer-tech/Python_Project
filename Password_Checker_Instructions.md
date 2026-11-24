@@ -24,7 +24,8 @@ FUNCTIONAL REQUIREMENTS
 10. Allow the user to test another password or exit the program.
 
 EXPECTED OUTPUT
-========== PASSWORD CHECKER ==========
+
+   PASSWORD CHECKER
 
 Enter your password: Hello123!
 
